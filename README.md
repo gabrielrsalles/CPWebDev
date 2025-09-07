@@ -58,3 +58,11 @@ Um projeto interativo feito com **JavaScript, HTML e CSS** para gerenciar jogado
 - Tornar o layout **responsivo** para dispositivos móveis.  
 - Adicionar **estatísticas globais**, como total de gols ou assistências.  
 - Armazenamento em **nuvem** para manter os dados entre dispositivos.
+
+---
+
+## Integrantes
+
+- Gabriel Salles - RM: 563584  
+- Felipe Rodrigues - RM: 565341  
+- Joan Ferreira - RM: 562913
